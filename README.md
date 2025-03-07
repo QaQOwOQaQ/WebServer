@@ -7,5 +7,8 @@
 
 [reference 3](https://github.com/markparticle/WebServer)
 
+
 ## 博客
-[TinyWebServer](https://blog.csdn.net/csdner250/category_12592505.html?spm=1001.2014.3001.5482)
+[讲解TinyWebServer](https://blog.csdn.net/csdner250/category_12592505.html?spm=1001.2014.3001.5482)
+
+[实现一个很简陋的TinyWebServer](https://zhuanlan.zhihu.com/p/364044293)
